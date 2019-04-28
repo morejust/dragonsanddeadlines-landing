@@ -3551,6 +3551,7 @@ iframe {
   -ms-flex-item-align: center;
   align-self: center;
   vertical-align: middle;
+  padding-left: 30px;
 }
 
 .powerfull_area .power_left_img img {
